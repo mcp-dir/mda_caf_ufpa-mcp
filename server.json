@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/mda_caf_ufpa-mcp",
+  "title": "MDA CAF: Unidade Familiar de Produção Agrária (UFPA)",
+  "description": "MDA CAF: Unidade Familiar de Produção Agrária (UFPA), official-source lookup. Platform-hosted, pay p",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/mda_caf_ufpa-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_mda_caf_ufpa"
+    }
+  ]
+}
